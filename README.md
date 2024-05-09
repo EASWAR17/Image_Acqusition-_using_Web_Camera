@@ -114,7 +114,8 @@ cv2.destroyAllWindows()
 ## OUTPUT:
 
 ### i) Write the frame as JPG image
-![(https://github.com/mohan8900/Image_Acqusition-_using_Web_Camera/blob/main/306834696-5c319921-b55e-4ec5-a6f2-f2294b0a8e72.png)](https://github.com/mohan8900/Image_Acqusition-_using_Web_Camera/blob/main/306834696-5c319921-b55e-4ec5-a6f2-f2294b0a8e72.png)
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/9ab0170f-c3ad-4c74-8dfb-f593019117e0)
+
 
 
 
@@ -123,16 +124,14 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video
-![Screenshot 2024-02-21 213311](https://github.com/Jaiganesh235/Image_Acqusition-_using_Web_Camera/assets/118657189/d29f2b17-edf9-4bbe-906e-b6e5a9424d12)
-
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/3a99f98c-36fe-491f-a6ef-28543e43e594)
 
 </br>
 </br>
 
 
 ### iii) Display the video by resizing the window
-![Screenshot 2024-02-21 213416](https://github.com/Jaiganesh235/Image_Acqusition-_using_Web_Camera/assets/118657189/49686dd1-a328-4909-a5f1-ddf0567ecff6)
-
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/bddc22fd-6eb6-4bf2-8db6-b4fbf46516a6)
 
 
 </br>
@@ -141,7 +140,8 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video
-![Screenshot 2024-02-21 213518](https://github.com/Jaiganesh235/Image_Acqusition-_using_Web_Camera/assets/118657189/2fe12628-6724-41d5-9e06-15bbfa8eacb2)
+
+![image](https://github.com/EASWAR17/Image_Acqusition-_using_Web_Camera/assets/94154683/9cda8fa3-0e84-40a0-96c7-c9b05c897161)
 
 
 
